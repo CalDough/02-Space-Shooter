@@ -1,6 +1,6 @@
 # 02-Space-Shooter
-My repository for my Space Shooter game 2/24/21
-This is my 2D Space Shooter Game.
+My repository for my Space Shooter game. 2/24/21
+
 
 # Implementation
 Godot
